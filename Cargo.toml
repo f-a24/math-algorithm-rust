@@ -1,0 +1,202 @@
+[package]
+name = "math-algorithm-rust"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+proconio = "0.3.6"
+rand = "0.8.5"
+
+# --- chapter2 codes
+[[bin]]
+name = "chapter2_01_1"
+path = "src/chapter2/codes/code01_1.rs"
+
+[[bin]]
+name = "chapter2_01_2"
+path = "src/chapter2/codes/code01_2.rs"
+
+[[bin]]
+name = "chapter2_01_3"
+path = "src/chapter2/codes/code01_3.rs"
+
+[[bin]]
+name = "chapter2_01_4"
+path = "src/chapter2/codes/code01_4.rs"
+
+[[bin]]
+name = "chapter2_02_1"
+path = "src/chapter2/codes/code02_1.rs"
+
+[[bin]]
+name = "chapter2_02_2"
+path = "src/chapter2/codes/code02_2.rs"
+
+[[bin]]
+name = "chapter2_03_1"
+path = "src/chapter2/codes/code03_1.rs"
+
+[[bin]]
+name = "chapter2_04_1"
+path = "src/chapter2/codes/code04_1.rs"
+
+[[bin]]
+name = "chapter2_04_2"
+path = "src/chapter2/codes/code04_2.rs"
+
+[[bin]]
+name = "chapter2_04_3"
+path = "src/chapter2/codes/code04_3.rs"
+
+[[bin]]
+name = "chapter2_06_1"
+path = "src/chapter2/codes/code06_1.rs"
+
+# --- chapter2 problem
+[[bin]]
+name = "problem2_01"
+path = "src/chapter2/problem/prob1.rs"
+
+[[bin]]
+name = "problem2_02"
+path = "src/chapter2/problem/prob2.rs"
+
+[[bin]]
+name = "problem2_05_3"
+path = "src/chapter2/problem/prob5_3.rs"
+
+[[bin]]
+name = "problem2_05_4"
+path = "src/chapter2/problem/prob5_4.rs"
+
+# --- chapter3 codes
+[[bin]]
+name = "chapter3_01_1"
+path = "src/chapter3/codes/code01_1.rs"
+
+[[bin]]
+name = "chapter3_01_2"
+path = "src/chapter3/codes/code01_2.rs"
+
+[[bin]]
+name = "chapter3_01_3"
+path = "src/chapter3/codes/code01_3.rs"
+
+[[bin]]
+name = "chapter3_02_1"
+path = "src/chapter3/codes/code02_1.rs"
+
+[[bin]]
+name = "chapter3_02_2"
+path = "src/chapter3/codes/code02_2.rs"
+
+[[bin]]
+name = "chapter3_03_1"
+path = "src/chapter3/codes/code03_1.rs"
+
+[[bin]]
+name = "chapter3_04_1"
+path = "src/chapter3/codes/code04_1.rs"
+
+[[bin]]
+name = "chapter3_04_2"
+path = "src/chapter3/codes/code04_2.rs"
+
+[[bin]]
+name = "chapter3_05_1"
+path = "src/chapter3/codes/code05_1.rs"
+
+[[bin]]
+name = "chapter3_06_1"
+path = "src/chapter3/codes/code06_1.rs"
+
+[[bin]]
+name = "chapter3_06_2"
+path = "src/chapter3/codes/code06_2.rs"
+
+[[bin]]
+name = "chapter3_06_3"
+path = "src/chapter3/codes/code06_3.rs"
+
+[[bin]]
+name = "chapter3_06_4"
+path = "src/chapter3/codes/code06_4.rs"
+
+[[bin]]
+name = "chapter3_06_5"
+path = "src/chapter3/codes/code06_5.rs"
+
+[[bin]]
+name = "chapter3_06_6"
+path = "src/chapter3/codes/code06_6.rs"
+
+[[bin]]
+name = "chapter3_07_1"
+path = "src/chapter3/codes/code07_1.rs"
+
+[[bin]]
+name = "chapter3_07_2"
+path = "src/chapter3/codes/code07_2.rs"
+
+[[bin]]
+name = "chapter3_07_3"
+path = "src/chapter3/codes/code07_3.rs"
+
+[[bin]]
+name = "chapter3_08_1"
+path = "src/chapter3/codes/code08_1.rs"
+
+# --- chapter3 problem
+[[bin]]
+name = "problem3_01"
+path = "src/chapter3/problem/prob1.rs"
+
+[[bin]]
+name = "problem3_02_1"
+path = "src/chapter3/problem/prob2_1.rs"
+
+[[bin]]
+name = "problem3_02_2"
+path = "src/chapter3/problem/prob2_2.rs"
+
+[[bin]]
+name = "problem3_03_1"
+path = "src/chapter3/problem/prob3_1.rs"
+
+[[bin]]
+name = "problem3_03_2"
+path = "src/chapter3/problem/prob3_2.rs"
+
+[[bin]]
+name = "problem3_03_3"
+path = "src/chapter3/problem/prob3_3.rs"
+
+[[bin]]
+name = "problem3_03_4"
+path = "src/chapter3/problem/prob3_4.rs"
+
+[[bin]]
+name = "problem3_04_1"
+path = "src/chapter3/problem/prob4_1.rs"
+
+[[bin]]
+name = "problem3_04_2"
+path = "src/chapter3/problem/prob4_2.rs"
+
+[[bin]]
+name = "problem3_05_1"
+path = "src/chapter3/problem/prob5_1.rs"
+
+[[bin]]
+name = "problem3_06_1"
+path = "src/chapter3/problem/prob6_1.rs"
+
+[[bin]]
+name = "problem3_07_1"
+path = "src/chapter3/problem/prob7_1.rs"
+
+[[bin]]
+name = "problem3_07_2"
+path = "src/chapter3/problem/prob7_2.rs"

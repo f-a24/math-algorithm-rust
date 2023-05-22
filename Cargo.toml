@@ -346,3 +346,149 @@ path = "src/chapter4/problem/prob7_2.rs"
 [[bin]]
 name = "problem4_07_3"
 path = "src/chapter4/problem/prob7_3.rs"
+
+# --- chapter5 codes
+[[bin]]
+name = "chapter5_02_1"
+path = "src/chapter5/codes/code02_1.rs"
+
+[[bin]]
+name = "chapter5_02_2"
+path = "src/chapter5/codes/code02_2.rs"
+
+[[bin]]
+name = "chapter5_03_1"
+path = "src/chapter5/codes/code03_1.rs"
+
+[[bin]]
+name = "chapter5_03_2"
+path = "src/chapter5/codes/code03_2.rs"
+
+[[bin]]
+name = "chapter5_04_1"
+path = "src/chapter5/codes/code04_1.rs"
+
+[[bin]]
+name = "chapter5_05_1"
+path = "src/chapter5/codes/code05_1.rs"
+
+[[bin]]
+name = "chapter5_05_2"
+path = "src/chapter5/codes/code05_2.rs"
+
+[[bin]]
+name = "chapter5_06_1"
+path = "src/chapter5/codes/code06_1.rs"
+
+[[bin]]
+name = "chapter5_07_1"
+path = "src/chapter5/codes/code07_1.rs"
+
+[[bin]]
+name = "chapter5_07_2"
+path = "src/chapter5/codes/code07_2.rs"
+
+[[bin]]
+name = "chapter5_09_1"
+path = "src/chapter5/codes/code09_1.rs"
+
+[[bin]]
+name = "chapter5_09_2"
+path = "src/chapter5/codes/code09_2.rs"
+
+[[bin]]
+name = "chapter5_10_1"
+path = "src/chapter5/codes/code10_1.rs"
+
+[[bin]]
+name = "chapter5_10_2"
+path = "src/chapter5/codes/code10_2.rs"
+
+[[bin]]
+name = "chapter5_10_3"
+path = "src/chapter5/codes/code10_3.rs"
+
+[[bin]]
+name = "chapter5_10_3_extra"
+path = "src/chapter5/codes/code10_3_extra.rs"
+
+[[bin]]
+name = "chapter5_10_4"
+path = "src/chapter5/codes/code10_4.rs"
+
+# --- chapter5 problem
+[[bin]]
+name = "problem5_02_1"
+path = "src/chapter5/problem/prob02_1.rs"
+
+[[bin]]
+name = "problem5_02_2"
+path = "src/chapter5/problem/prob02_2.rs"
+
+[[bin]]
+name = "problem5_03_1"
+path = "src/chapter5/problem/prob03_1.rs"
+
+[[bin]]
+name = "problem5_04_1"
+path = "src/chapter5/problem/prob04_1.rs"
+
+[[bin]]
+name = "problem5_04_2"
+path = "src/chapter5/problem/prob04_2.rs"
+
+[[bin]]
+name = "problem5_05_1"
+path = "src/chapter5/problem/prob05_1.rs"
+
+[[bin]]
+name = "problem5_06_1"
+path = "src/chapter5/problem/prob06_1.rs"
+
+[[bin]]
+name = "problem5_07_1"
+path = "src/chapter5/problem/prob07_1.rs"
+
+[[bin]]
+name = "problem5_07_2"
+path = "src/chapter5/problem/prob07_2.rs"
+
+[[bin]]
+name = "problem5_08_1"
+path = "src/chapter5/problem/prob08_1.rs"
+
+[[bin]]
+name = "problem5_08_2"
+path = "src/chapter5/problem/prob08_2.rs"
+
+[[bin]]
+name = "problem5_08_3"
+path = "src/chapter5/problem/prob08_3.rs"
+
+[[bin]]
+name = "problem5_09_1"
+path = "src/chapter5/problem/prob09_1.rs"
+
+[[bin]]
+name = "problem5_09_2"
+path = "src/chapter5/problem/prob09_2.rs"
+
+[[bin]]
+name = "problem5_09_3"
+path = "src/chapter5/problem/prob09_3.rs"
+
+[[bin]]
+name = "problem5_10_1"
+path = "src/chapter5/problem/prob10_1.rs"
+
+[[bin]]
+name = "problem5_10_2"
+path = "src/chapter5/problem/prob10_2.rs"
+
+[[bin]]
+name = "problem5_10_3"
+path = "src/chapter5/problem/prob10_3.rs"
+
+[[bin]]
+name = "problem5_10_4"
+path = "src/chapter5/problem/prob10_4.rs"
